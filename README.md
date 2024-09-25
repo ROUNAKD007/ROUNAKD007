@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rounak</h1>
-<h3 align="center">A passionate about cybersecurity</h3>
+<h3 align="center">Passionate about cybersecurity</h3>
 
 <p align="left"> <a href="https://twitter.com/rounak_who" target="blank"><img src="https://img.shields.io/twitter/follow/rounak_who?logo=twitter&style=for-the-badge" alt="rounak_who" /></a> </p>
 
